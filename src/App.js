@@ -27,7 +27,7 @@ function App() {
 
   return (
         <div className='app'>
-            <h1>Another Cuevana</h1>
+            <h1>Another Cuevana..</h1>
 
             <div className='search'>
                 <input
